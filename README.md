@@ -1,0 +1,2 @@
+# n8n-Daily-Weather-Reports-with-OpenWeather-API-Google-Sheets-and-Gmail
+This workflow fetches real-time weather data from the OpenWeather API, stores it in a Google Sheet, formats it into a beautifully styled HTML report and emails it to recipients automatically every day at 10:00 AM. It helps teams track and monitor daily weather trends and optionally correlate them with energy production or field operations.
